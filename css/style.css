@@ -1,0 +1,22 @@
+.container{
+    margin-bottom: 50px;
+}
+h1{
+    text-align: center;
+    padding: 20px;
+}
+.button{
+    margin-right: 15px;
+    margin-bottom: 15px;
+    background-color: #fff;
+    border-radius: 14px;
+}
+.btnD{
+    margin-left: 285px;
+}
+.btnAcT{
+    margin-left: 445px;
+}
+.btnB{
+    margin-left: 310px;
+}
